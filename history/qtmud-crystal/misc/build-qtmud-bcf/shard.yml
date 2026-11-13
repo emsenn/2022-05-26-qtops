@@ -1,0 +1,10 @@
+name: qtmud
+description: A MUD engine; run text-based online role-playing games.
+version: 0.1.0
+
+authors:
+  - emsenn <emsenn@emsenn.net>
+
+crystal: 0.28.0
+
+license: MIT

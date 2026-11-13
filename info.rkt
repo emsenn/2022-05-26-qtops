@@ -11,3 +11,5 @@
                "rackunit-lib"))
 (define build-deps '("racket-doc"
                      "scribble-lib"))
+(define compile-omit-paths '("history"))
+(define test-omit-paths '("history"))

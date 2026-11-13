@@ -1,0 +1,13 @@
+---
+title: "qtmud Logs"
+type: babble
+tags:
+  - QTMUD
+  - Logs
+  - Configuration
+description: "README for qtmud logs directory."
+triage-status: enriched
+target-discipline: technology
+---
+
+Just here so `qtmud_run` won't toss warnings if started fresh without configuration.
