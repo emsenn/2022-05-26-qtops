@@ -2,6 +2,7 @@
 
 title: qtMUD
 created: "2025-08-19"
+type: doc
 ---
 
 ## Overview
